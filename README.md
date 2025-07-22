@@ -25,7 +25,7 @@
 - 🌐 [GitHub](https://github.com/scriptedbyT)
 - 💼 [LinkedIn](https://www.linkedin.com/in/taneshka-mehta-2145341a7/)
 - 📧 taneshka.mehta@gmail.com
-- 🧑‍💻 [scriptedbyT Portfolio](scriptedby-t-github-io.vercel.app)
+- 🧑‍💻 [scriptedbyT Portfolio](https://scriptedbyt.github.io/)
 
 ---
 
