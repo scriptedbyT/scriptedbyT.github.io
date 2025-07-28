@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack
 **Languages & Tools:**  
-`Python` | `Playwright` | `Selenium` | `REST APIs` | `HTML` | `CSS` | `JS` | `React` | `MySQL` | `Git`
+`Python` | `Playwright` | `Selenium` | `FastAPI and REST APIs` | `HTML` | `CSS` | `JS` | `React` | `MySQL` | `Git`
 
 ---
 
